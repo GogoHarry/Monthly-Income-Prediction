@@ -1,7 +1,7 @@
 # Monthly-Income-Prediction
 
 ## Project Overview
-![income](https://github.com/user-attachments/assets/0609e64e-66d2-41fd-86dc-d3c890ba5849)
+![income](https://github.com/user-attachments/assets/4ef8cac8-44e9-4357-8a91-091079baa6bd)
 
 This project aims to predict the monthly income of employees based on various features such as age, education, job role, and more. A Linear Regression model was developed to perform the prediction, and model performance was evaluated using key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) score. Additionally, hyperparameter tuning was carried out using GridSearchCV with a GradientBoostingRegressor to explore potential improvements in prediction accuracy.
 
